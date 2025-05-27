@@ -1,4 +1,3 @@
-# Grade-boundaries-for-IAL-EDEXCEL-in-csv
 
 # 📊 Edexcel IAL Grade Boundaries Dataset (2015–2025)
 
