@@ -39,7 +39,7 @@ Edexcel publishes grade boundaries in separate PDFs per session. This repository
 
 ## 📎 Access the CSV
 
-[**🔗https://github.com/ChessMastermind/Grade-boundaries-for-IAL-EDEXCEL-in-csv/blob/main/Grade_boundaries.csv**](#) Link
+(**🔗https://github.com/ChessMastermind/Grade-boundaries-for-IAL-EDEXCEL-in-csv/blob/main/Grade_boundaries.csv**)(#) 
 
 ---
 
